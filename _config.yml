@@ -1,2 +1,4 @@
 name: Liam Griffin, Portfolio
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
